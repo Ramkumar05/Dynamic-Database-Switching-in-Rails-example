@@ -1,8 +1,13 @@
-Readme
+Readme ::
 1) Just create two database with names helpkit1 and rails416. 
-2) run migrations
-3) Fillup with different datas in both databases
-4) Add below line to your host file 
+
+2) run migrations.
+
+3) Fillup with different datas in both databases.
+
+4) Add below line to your host file .
     127.0.0.1 admin.renshiners.com
+    
 5) Then run this project in localhost:3000 and admin.renshiners.com:3000.
+
 6) You will find different results.
