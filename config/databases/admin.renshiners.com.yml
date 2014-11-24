@@ -1,0 +1,6 @@
+# Contents of ryanstenhouse.eu.yml
+database_details:
+  adapter: mysql2
+  database: helpkit1
+  username: root
+  password: 

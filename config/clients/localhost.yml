@@ -1,0 +1,1 @@
+<%= { "database_details" => ActiveRecord::Base.configurations["development"] }.to_yaml %>
